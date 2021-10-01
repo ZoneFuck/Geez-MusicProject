@@ -2,10 +2,10 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@GeezMusicBot](https://t.me/GeezMusicBot)
+### Available on telegram as [@LordMuda Support](https://t.me/lordmudabotsupport)
 
 <p align="center">
-  <img src="https://telegra.ph/file/9c33051aae30b996e0ca4.jpg">
+  <img src="https://telegra.ph/file/092dd278fe7e83a611b8a.jpg">
 </p>
 <h2> Features </h2>
 
